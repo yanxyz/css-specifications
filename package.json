@@ -1,0 +1,20 @@
+{
+  "name": "w3c-specifications",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Ivan Yan",
+  "license": "MIT",
+  "private": true,
+  "repository": "yanxyz/w3c-specifications",
+  "bin": {
+    "w3c": "./cli.js"
+  },
+  "dependencies": {
+    "chalk": "^2.2.0",
+    "fs-extra": "^4.0.2",
+    "got": "^7.1.0",
+    "opn": "^5.1.0",
+    "p-map": "^1.2.0",
+    "yargs-parser": "^8.0.0"
+  }
+}
